@@ -1,0 +1,1 @@
+alert("JavaScript hər kəsə salam 33 yaşım var");
