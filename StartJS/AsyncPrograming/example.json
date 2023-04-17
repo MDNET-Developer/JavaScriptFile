@@ -1,0 +1,29 @@
+[
+
+    {
+        
+        "name" : "Murad",
+        "surname" : "Aliyev",
+        "degree" : "Master",
+        "course" : [
+            "C#",
+            "ASP.NET",
+            "HTML",
+            "CSS",
+            "JS"
+        ]
+    },
+    {
+        "name" : "Murad",
+        "surname" : "Aliyev",
+        "degree" : "Master",
+        "course" : [
+            "C#",
+            "ASP.NET",
+            "HTML",
+            "CSS",
+            "JS"
+        ]
+    }
+    
+]
